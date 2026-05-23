@@ -1,0 +1,55 @@
+# TC002 - Add Same Product Multiple Times to Cart
+
+
+
+## Test Scenario
+Add the same product multiple times to the shopping cart.
+
+
+
+## Objective
+Validate that the system correctly updates the quantity when the same product is added multiple times and ensures the cart displays accurate product information (name, price, and total quantity).
+
+
+
+## Preconditions
+1. User is on the Products page.
+2. A product is available for selection.
+
+URL: https://automationexercise.com/products
+
+
+## Test Steps
+1. Navigate to the Products page  
+2. Select a product from the list  
+3. Click on "ADD TO CART"  
+4. Click on "Continue Shopping"  
+5. Click on "ADD TO CART" again for the same product  
+6. Click on "Continue Shopping"  
+7. Repeat the "ADD TO CART" action multiple times  
+8. Click on "View Cart"  
+9. Verify the quantity of the selected product in the cart  
+
+
+
+## Expected Result
+The system should correctly update the quantity of the same product in the cart each time it is added, maintaining accurate:
+- Product name  
+- Product price  
+- Total quantity  
+
+
+
+## Actual Result
+The system correctly updated the product quantity in the cart each time the same product was added. The cart displayed the correct product name, price, and total quantity as expected.
+
+
+
+## Status
+Passed
+
+
+
+## Evidence
+Execution recorded in: TC002_execution.mp4  
+Location: /04-evidence/TC002/
