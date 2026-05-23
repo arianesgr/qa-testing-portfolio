@@ -1,0 +1,26 @@
+# IMP002 - Improve Product Quantity Selection in Product Page
+
+
+## Problem Description
+The system does not provide a clear and intuitive option to increase the quantity of a product directly from the product page before adding it to the cart.
+
+Users are required to add the product first and then adjust the quantity in the cart, which reduces usability efficiency.
+
+
+## Impact on User
+This flow may reduce user experience efficiency, especially for users who want to purchase multiple units of the same product quickly.
+It creates unnecessary steps in the shopping process.
+
+
+## Recommendation
+Add a quantity selector (e.g., "+" and "-" buttons or input field) directly on the product page before clicking "Add to cart".
+
+
+## Expected Benefit
+- Improved user experience (UX)
+- Faster product selection process
+- Reduced number of steps to complete a purchase
+- More intuitive shopping flow
+
+
+## Evidence
