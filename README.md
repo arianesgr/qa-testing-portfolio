@@ -1,18 +1,20 @@
-# QA Testing Portfolio – Manual & API Testing
+# QA Testing Portfolio – Agile Sprint-Based Manual & API Testing
 
 ## 👩‍💻 About This Portfolio
 
-This repository demonstrates my transition into Software Quality Assurance, combining hands-on testing practice with a strong foundation of over 8 years of experience in Quality Management, ISO 9001 auditing, compliance, process improvement, and root cause analysis in regulated environments.
+This repository showcases a QA portfolio built through Agile sprint simulations, focusing on Manual Testing, API Testing, defect reporting, and structured quality validation workflows.
 
-My background in industrial and operational quality has shaped a strong analytical and process-oriented mindset, focused on traceability, documentation accuracy, and continuous improvement.
+It combines hands-on software testing practice with over 8 years of professional experience in Quality Assurance, ISO 9001 auditing, compliance, process improvement, and root cause analysis in regulated environments.
 
-I am currently focused on transitioning these quality assurance principles into the software testing domain, with emphasis on Manual Testing, API Testing, and Agile QA workflows.
+My background in industrial and operational quality has developed a strong analytical and process-driven mindset, with emphasis on traceability, documentation accuracy, risk awareness, and continuous improvement.
+
+I am currently applying these principles to the software testing domain, focusing on Agile QA practices and real-world testing workflows.
 
 
 
 ## 🎯 Objective
 
-To apply structured quality practices to software testing, ensuring functional validation, defect identification, and continuous improvement in digital products.
+To simulate real QA responsibilities within Agile environments by executing structured testing cycles that include test design, execution, defect identification, and continuous improvement.
 
 
 
@@ -22,55 +24,57 @@ To apply structured quality practices to software testing, ensuring functional v
 - API Testing (Postman)
 - Test Case Design & Execution
 - Bug Reporting & Defect Tracking
-- Agile / Scrum methodologies
-- Git & GitHub (version control)
-
+- Agile / Scrum workflows
+- Git & GitHub version control
 
 
 ## 🧠 Quality Engineering Background
 
-- ISO 9001 auditing and compliance systems
-- Process mapping and documentation control
-- Root cause analysis (RCA)
+- ISO 9001 auditing & compliance systems
+- Process mapping & documentation control
+- Root Cause Analysis (RCA)
 - CAPA (Corrective and Preventive Actions)
-- KPI monitoring and quality reporting
-- Cross-functional process improvement
-
+- KPI monitoring & quality reporting
+- Continuous process improvement
 
 
 ## 🛠 Tools & Technologies
 
-- Jira (defect tracking & workflow simulation)
+- Jira (simulated Agile workflow & defect tracking)
 - Postman (API testing)
 - GitHub (documentation & version control)
-- Trello (task management)
-- Agile / Scrum environment
+- Trello (task & workflow management)
+- Agile / Scrum methodologies
+
+
+## 📁 QA Sprint-Based Structure
+
+This portfolio is organized as simulated Agile sprints:
+
+- **01-ecommerce-cart-sprint** → Functional testing of cart behavior
+- **02-login-sprint** → Authentication flow validation
+- **03-api-sprint** → API testing and validation scenarios
+
+Each sprint includes:
+- Test Cases
+- Bug Reports
+- Execution Results
+- Evidence
+- Improvement Suggestions
 
 
 
-## 📁 Project Structure
+## 🧠 QA Mindset
 
-- test-cases → Manual test cases and scenarios
-- bug-reports → Defect documentation
-- test-plan → QA planning and scope definition
-- api-testing → API validation examples
-- evidence → Execution screenshots and proof of testing
-
-
-
-## 🧠 Quality Mindset
-
-This project reflects a structured, detail-oriented, and process-driven approach to software quality assurance, focused on risk awareness, traceability, and continuous improvement.
-
+This portfolio reflects a structured QA approach aligned with real Agile team environments, focusing on risk awareness, traceability, and continuous quality improvement.
 
 
 ## 🚀 Career Focus
 
-Currently seeking opportunities as a Software QA Analyst, with focus on Manual Testing, API Testing, and Agile QA environments in remote international teams.
+Software QA Analyst | Manual Testing | API Testing | Agile QA Environments | Remote International Opportunities
 
 
 ## 📫 Contact
 
-LinkedIn: www.linkedin.com/in/arianesgrodrigues
-
-GitHub:https://github.com/arianesgr
+LinkedIn: www.linkedin.com/in/arianesgrodrigues  
+GitHub: https://github.com/arianesgr
