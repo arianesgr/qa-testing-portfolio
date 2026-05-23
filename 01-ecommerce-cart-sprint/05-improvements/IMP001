@@ -1,0 +1,25 @@
+# IMP001 - UI/UX Issue on Product Hover Animation
+
+
+## Problem Description
+When hovering over a product, an orange overlay animation appears and the product image disappears, affecting visual clarity.
+
+
+## Impact on User
+This behavior may confuse the user, as the product image is hidden during interaction, reducing clarity about the selected item.
+
+
+## Recommendation
+Improve the hover behavior by:
+- Keeping the product image visible during "Add to cart" interaction
+- Reducing or removing the overlay animation effect
+- Ensuring clear visual feedback when selecting a product
+
+
+## Expected Benefit
+- Improved user experience (UX)
+- Clearer product selection process
+- Better visual feedback during cart interaction
+
+
+## Evidence
