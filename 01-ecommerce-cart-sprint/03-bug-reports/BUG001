@@ -1,0 +1,43 @@
+# BUG001 - Invalid Product Quantity is Accepted in Cart
+
+
+## Description
+The system allows a product to be added to the cart even when invalid quantity values (0 or extremely large numbers) are entered, without displaying any validation message or restriction.
+This causes inconsistent cart data and affects system reliability.
+
+
+
+## Steps to Reproduce
+1. Navigate to Products page  
+2. Select a product  
+3. Click on "View Product"  
+4. Enter quantity value: 0 or 100000000000000000  
+5. Click on "Add to cart"  
+6. Click on "View Cart"  
+
+
+## Expected Result
+The system should block invalid quantity inputs and display a validation message or enforce quantity limits.
+
+
+## Actual Result
+The system allows the product to be added to the cart with invalid quantity values without any validation or error message.
+
+
+## Severity
+High
+
+
+## Priority
+High
+
+
+## Status
+Open
+
+
+## Related Test Case
+TC003 - Validate Invalid Product Quantity Input in Cart 
+
+
+## Evidence
