@@ -1,0 +1,38 @@
+# TC004 - Remove Product from Cart Successfully
+
+
+## Test Scenario
+Remove a product from the shopping cart successfully.
+
+
+## Objective
+Validate that the user can successfully remove a product from the cart and ensure that no product remains in the cart after deletion.
+
+
+## Preconditions
+1. A product is already added to the cart.
+
+
+## Test Steps
+1. Navigate to the Products page  
+2. Select a product from the list  
+3. Click on "ADD TO CART"  
+4. Click on "View Cart"  
+5. Click on the "Remove (X)" button for the product  
+
+
+## Expected Result
+The product should be successfully removed from the cart and:
+- No product should remain in the cart
+- Cart should reflect an empty state or zero items
+
+
+## Actual Result
+The selected product was removed from the shopping cart successfully after clicking the "Remove (X)" button. The cart state was updated correctly, showing no remaining items.
+
+
+## Status
+Passed
+
+
+## Evidence
