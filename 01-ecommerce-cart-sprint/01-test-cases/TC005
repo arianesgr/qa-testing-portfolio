@@ -1,0 +1,39 @@
+# TC005 - Update Product Quantity in Cart Successfully
+
+
+## Test Scenario
+Update the quantity of a product already added to the shopping cart.
+
+
+## Objective
+Validate that the system allows the user to modify the quantity of products already added to the cart and updates the total correctly.
+
+
+## Preconditions
+User has a product already added to the cart.
+
+URL: https://automationexercise.com/products
+
+
+## Test Steps
+1. Navigate to the Products page  
+2. Select a product from the list  
+3. Click on "ADD TO CART"  
+4. Click on "View Cart"  
+5. Locate the quantity field in the cart  
+6. Update the product quantity value  
+
+
+## Expected Result
+The system should allow the user to update the product quantity in the cart and reflect the updated value correctly.
+
+
+## Actual Result
+The system allowed the user to update the quantity of the product in the cart successfully, and the cart reflected the updated quantity correctly.
+
+
+## Status
+Passed
+
+
+## Evidence
