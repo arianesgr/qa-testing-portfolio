@@ -56,4 +56,5 @@ Location: /04-evidence/TC003/
 
 
 ## Linked Defect
-BUG001 - Invalid quantity is accepted and added to cart without validation
+🔗 BUG001 - Invalid Product Quantity is Accepted in Cart  
+[Open in GitHub](https://github.com/arianesgr/qa-testing-portfolio/blob/main/01-ecommerce-cart-sprint/03-bug-reports/BUG001.md)
