@@ -14,13 +14,11 @@ User is on the products page.
 URL: https://automationexercise.com/products
 
 
-
 ## Test Steps
 1. Navigate to the Products page
 2. Select a product from the list
 3. Click on "ADD TO CART"
 4. Click on "View Cart"
-
 
 
 ## Expected Result
@@ -35,7 +33,7 @@ The product was successfully added to the cart and displayed correctly with name
 
 
 ## Status
- Pass 
+Passed 
 
 
 ## Evidence
