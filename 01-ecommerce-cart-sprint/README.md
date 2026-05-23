@@ -49,6 +49,10 @@ Ensure that the cart functionality behaves as expected across different user int
 
 This sprint reflects a structured QA approach based on real industry practices including traceability, validation, and continuous improvement mindset.
 
+## Project Documentation
+Detailed project case study available on Notion:
+
+[View Notion Case Study](https://www.notion.so/QA-Portfolio-369d109c954580b58536f90d74cd8a87?source=copy_link)
 
 
 ## 📫 Notes
