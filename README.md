@@ -1,5 +1,7 @@
 # QA Testing Portfolio – Agile Sprint-Based Manual & API Testing
 
+This portfolio demonstrates structured QA practices applied through Agile sprint simulations, with emphasis on documentation accuracy, validation workflows, traceability, defect analysis, and evidence-based quality processes.
+
 ## 👩‍💻 About This Portfolio
 
 This repository showcases a QA portfolio built through Agile sprint simulations, focusing on Manual Testing, API Testing, defect reporting, and structured quality validation workflows.
@@ -78,3 +80,5 @@ Software QA Analyst | Manual Testing | API Testing | Agile QA Environments | Rem
 
 LinkedIn: www.linkedin.com/in/arianesgrodrigues  
 GitHub: https://github.com/arianesgr
+
+## Portfolio under continuous expansion with additional validation and QA scenarios.
